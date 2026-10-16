@@ -1,0 +1,1 @@
+Borger Clicker is only for Windows, as it uses msvcrt.More upgrades will be added in the future - they will be wacky.Thanks! - Dev
